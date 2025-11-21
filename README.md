@@ -75,7 +75,7 @@ Thanks.
 
 ●🖥MAC
 
-# Modified by @palahsu
+# Modified by @zhert
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
@@ -85,7 +85,7 @@ Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://i
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/zhert"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
 <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
